@@ -5,3 +5,5 @@
 Технологии, которые применены:
 1. grid
 2. flex
+
+Страница проекта находится [здесь](https://aminoha.github.io/russian-travel/)
