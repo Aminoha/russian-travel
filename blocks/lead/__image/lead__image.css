@@ -1,0 +1,6 @@
+.lead__image {
+  display: block;
+  /*чтобы убрать лишний отступ после картинки*/
+  max-width: 100%;
+  padding: 0;
+}
