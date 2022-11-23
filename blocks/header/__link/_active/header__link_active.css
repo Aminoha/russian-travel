@@ -1,4 +1,4 @@
-.header__lang-link_active {
+.header__link_active {
   text-decoration: underline;
   text-underline-position: under;
   /*чтобы линия подчеркивания не была сильно прижата к буквам*/
